@@ -79,7 +79,7 @@ databases.
       :icon-alt: Cloud Manager LogoMark
 
       Use the hosted management platform to monitor, automate, and backup
-      self-managed deployments.
+      self-managed deployments. test
 
    .. card::
       :headline: Ops Manager
