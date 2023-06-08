@@ -52,7 +52,7 @@ databases.
       :icon-alt: Atlas LogoMark
 
       Learn how to deploy a fully-managed cloud database and get started with a
-      free-tier cluster.
+      free-tier cluster. Test Event!
 
    .. card::
       :headline: Atlas CLI
