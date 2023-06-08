@@ -6,7 +6,7 @@ Launch & Manage MongoDB
 
 .. ia::
 
-   .. entry:: Atlas
+   .. entry:: Atlas Test
       :url: https://www.mongodb.com/docs/atlas/
       :project-name: cloud-docs
       :primary:
